@@ -6,6 +6,10 @@
 - **Popis:** Kontaktní adresa zobrazená na stránce je pro GymBeam GmbH v Berlíně, Německu, avšak telefonní číslo má předvolbu pro Slovinsko (+386).
 - **Důsledky:** Nesprávné nebo nekonzistentní kontaktní informace mohou vést ke snížení důvěryhodnosti a způsobit problémy při pokusu o kontaktování zákaznické podpory.
 
-### 3. Chybějící logo GLS:
+### 3. Nekonzistentní velikost loga mezi Visa a Mastercard
+- **Popis:** Na snímku obrazovky je mezi logy Visa a Mastercard patrný rozdíl ve velikosti. Logo Visa je opticky větší než logo Mastercard, což vytváří vizuální nesoulad. 
+- **Důsledky:** Nekonzistentní velikost log může narušit vizuální harmonii stránky a způsobit, že stránka vypadá neprofesionálně. 
+
+### 4. Chybějící logo GLS:
 - **Popis:** Chybí logo přepravní společnosti GLS.
 - **Důsledky:** Chybějící logo GLS může způsobit zmatek mezi uživateli, kteří nebudou vědět, které přepravní společnosti jsou dostupné pro doručení jejich objednávek. To může vést k nedůvěře v možnosti doručení a snížení spokojenosti zákazníků. Navíc to snižuje vizuální atraktivitu a profesionální vzhled stránky, což může negativně ovlivnit celkový dojem z webu.
