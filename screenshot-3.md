@@ -10,3 +10,7 @@
 - **Popis:** Tlačítko „Nakúpiť zrýchlene“ je šedé, což může uživatelům naznačovat, že je neaktivní nebo zakázané. Navíc, oranžové tlačítko „Pridať do košíka“ a křížek pro zavření vyskakovacího okna se překrývají, což snížuje viditelnost důležitých akcí.
 - **Důsledky:** Špatný kontrast a nesprávné použití barev mohou negativně ovlivnit přístupnost stránky a snížit uživatelský zážitek, zejména pro uživatele se zrakovým postižením.
 
+### 4. Nekonzistentní fonty a velikosti písma
+- **Popis:** Jsou použity různé fonty a velikosti písma, což vede k nejednotnému vzhledu. Navíc, některé texty používají různé kapitálové formátování (velká a malá písmena) bez zjevné logiky nebo důvodu.
+- **Důsledky:** Nekonzistentní použití fontů a velikostí písma může způsobit, že stránka bude vypadat neprofesionálně a chaoticky. ozdílné fonty a velikosti písma mohou ztížit čtení a navigaci na stránce. Nekonzistentní kapitálové formátování může ztížit pochopení některých textů, zejména pro uživatele s poruchami čtení nebo zrakovými problémy. Nekonzistentní typografie může narušit vizuální identitu značky a oslabení brandingu.
+
