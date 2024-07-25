@@ -5,3 +5,7 @@
 ### 2. Nesprávné kontaktní údaje:
 - **Popis:** Kontaktní adresa zobrazená na stránce je pro GymBeam GmbH v Berlíně, Německu, avšak telefonní číslo má předvolbu pro Slovinsko (+386).
 - **Důsledky:** Nesprávné nebo nekonzistentní kontaktní informace mohou vést ke snížení důvěryhodnosti a způsobit problémy při pokusu o kontaktování zákaznické podpory.
+
+### 3. Chybějící logo GLS:
+- **Popis:** Chybí logo přepravní společnosti GLS.
+- **Důsledky:** Chybějící logo GLS může způsobit zmatek mezi uživateli, kteří nebudou vědět, které přepravní společnosti jsou dostupné pro doručení jejich objednávek. To může vést k nedůvěře v možnosti doručení a snížení spokojenosti zákazníků. Navíc to snižuje vizuální atraktivitu a profesionální vzhled stránky, což může negativně ovlivnit celkový dojem z webu.
