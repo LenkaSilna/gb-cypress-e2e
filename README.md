@@ -1,4 +1,4 @@
-Case Study - QA Engineer
+Test Interview
 
 1. [Testovací scénáře pro registraci](https://github.com/LenkaSilna/gb-cypress-e2e/blob/main/1.scenare-registrace.md)
 2. [Testovací scénáře pro vyhledávání](https://github.com/LenkaSilna/gb-cypress-e2e/blob/main/2.scenare-pro-vyhledavani.md)
