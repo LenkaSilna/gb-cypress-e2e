@@ -2,6 +2,11 @@
 - **Popis:** Vyskakovací okno s textem „Mohu pomoci?“ a jeho zavírací tlačítko částečně překrývá tlačítko „Nakoupit zrychleně“ a „Přidat do košíka".
 - **Důsledky:** Tento problém může ztížit uživatelům přístup k tlačítku „Nakoupit zrychleně“ nebo při zavírání omylem vložit zboží do košíku.
 
-### 2. Nekonzistentní spacing pro elementy
+### 2. Nekonzistentní spacing pro elementy:
 - **Popis:** Prvky na stránce mají nekonzistentní mezery (spacing) mezi sebou
 - **Důsledky:** Stránka vypadá neprofesionálně a chaoticky. To může negativně ovlivnit uživatelský zážitek.
+
+### 3. Nesprávné použití kontrastu a barev:
+- **Popis:** Tlačítko „Nakúpiť zrýchlene“ je šedé, což může uživatelům naznačovat, že je neaktivní nebo zakázané. Navíc, oranžové tlačítko „Pridať do košíka“ a křížek pro zavření vyskakovacího okna se překrývají, což snížuje viditelnost důležitých akcí.
+- **Důsledky:** Špatný kontrast a nesprávné použití barev mohou negativně ovlivnit přístupnost stránky a snížit uživatelský zážitek, zejména pro uživatele se zrakovým postižením.
+
