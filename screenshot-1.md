@@ -2,7 +2,7 @@
 - **Popis:** Při pokusu o odeslání otázky se zobrazuje chybová zpráva v konzoli: {"error":["We can't post your question right now."]}.
 - **Důsledky:** Uživatelé nemohou přidat otázky k produktům, což může snížit jejich interakci se stránkou a důvěru v produkty.
 
-### 3. Nekonzistentní stav odeslání otázky:
+### 2. Nekonzistentní stav odeslání otázky:
 - **Popis:** I když se zobrazuje zpráva „Otázka bola uložená“, konzole ukazuje chybu při odeslání otázky. Tento nesoulad může signalizovat problém se synchronizací nebo backendem.
 - **Důsledky:** Uživatelé mohou být uvedeni v omyl ohledně stavu své otázky, což může vést k nedůvěře v systém a opakovaným pokusům o odeslání stejné otázky.
 
